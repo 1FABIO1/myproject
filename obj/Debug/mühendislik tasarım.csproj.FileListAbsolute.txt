@@ -1,0 +1,12 @@
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\bin\Debug\mühendislik tasarım.exe.config
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\bin\Debug\mühendislik tasarım.exe
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\bin\Debug\mühendislik tasarım.pdb
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik tasarım.csprojAssemblyReference.cache
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik_tasarım.FrmKullanıcı.resources
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik_tasarım.frmYeni.resources
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik_tasarım.frmŞifre.resources
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik_tasarım.Properties.Resources.resources
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik tasarım.csproj.GenerateResource.cache
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik tasarım.csproj.CoreCompileInputs.cache
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik tasarım.exe
+C:\Users\SEFA KARAMAN\Desktop\mühendislik tasarım\mühendislik tasarım\obj\Debug\mühendislik tasarım.pdb
